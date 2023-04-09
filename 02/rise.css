@@ -1,0 +1,10 @@
+
+body.rise-enabled td {
+  font-size: 150%;
+ padding: 14px;
+}
+
+body.rise-enabled th {
+  font-size: 150%;
+  padding: 10px;
+}
